@@ -1,6 +1,6 @@
 # BTC RPC Explorer
 
-Simple, database-free Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
+Simple, database-free Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4...
 
 This tool is intended to be a simple, self-hosted explorer for the Bitcoin blockchain, driven by RPC calls to your own bitcoind node. This tool is easy to run but currently lacks features compared to database-backed explorers.
 
